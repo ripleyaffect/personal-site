@@ -55,3 +55,7 @@ p {
   width: 40px;
   margin-right: 5px;
 }
+
+@-ms-viewport{
+  width: device-width;
+}
