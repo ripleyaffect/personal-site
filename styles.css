@@ -1,0 +1,57 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 60px;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: none;
+  color: #55AAFF
+}
+
+header {
+  padding-top: 45px;
+  margin-bottom: 45px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.app-container {
+  width: 750px;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.user-image {
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;;
+}
+
+.social-button-image {
+  height: 30px;
+  width: 30px;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.social-button-image:hover {
+  opacity: 0.8;
+}
+
+.social-button-image-twitter {
+  height: 40px;
+  width: 40px;
+  margin-right: 5px;
+}
